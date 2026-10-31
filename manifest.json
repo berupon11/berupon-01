@@ -1,0 +1,62 @@
+{
+  "package": "mes-copilot-transfer-test",
+  "version": "1.0",
+  "encoding": "UTF-8",
+  "files": [
+    {
+      "name": "00_START.md",
+      "sha256": "64011f4cec200bf727e114e5490f3e646e0d47ed91e04351017e264f9166de3c",
+      "bytes": 1490
+    },
+    {
+      "name": "01_INDEX.md",
+      "sha256": "05d198d5cc798b22d44cbba5bf8889711fb888f3e13bff70b5620fe37b7d0d02",
+      "bytes": 792
+    },
+    {
+      "name": "02_RULES.md",
+      "sha256": "b8afe0dd86492d4f0680d716b4e2657db8a1e4a9ee44f7c235e0507486ffa79b",
+      "bytes": 1127
+    },
+    {
+      "name": "10_COMMON_MODEL.md",
+      "sha256": "a0148ece3b197bde086ce65611d16b433631935300c1cc7aed3063fd057df894",
+      "bytes": 1589
+    },
+    {
+      "name": "20_EQUIPMENT_MODEL.md",
+      "sha256": "498afb1c072c10a1d2f0378bace0780d657cb5931d80c1d87d6fbdc5d0da0fee",
+      "bytes": 2572
+    },
+    {
+      "name": "30_SCENARIOS.md",
+      "sha256": "23082fc7a757b945fa7d6f3a7b5495049158748b2242ffc941b526414063e153",
+      "bytes": 1677
+    },
+    {
+      "name": "40_OPEN_ISSUES.md",
+      "sha256": "4107f61e1ad030ef393bd5fa9b8d6fd3f555d36e29ef9eda69401f77eb2f9e8e",
+      "bytes": 994
+    },
+    {
+      "name": "50_COPILOT_TEST_PROMPTS.txt",
+      "sha256": "d7964e265d729ce8fd822fc87860ba498904aa194b86c06b00c2d30a27ea73f0",
+      "bytes": 2813
+    },
+    {
+      "name": "90_EXPECTED_RESULTS.md",
+      "sha256": "b4728713fa62147aa20369927003b2e8f6778499553c64e3766364b12de7f8a8",
+      "bytes": 2882
+    },
+    {
+      "name": "91_SCORECARD.md",
+      "sha256": "cf137da8e6e0ca22b89adcbb51dec04a52b0c94be7feff7021e200d6080013ec",
+      "bytes": 1072
+    },
+    {
+      "name": "README_GITHUB.md",
+      "sha256": "21affb5c5fd54ab45503bcbebafb83e15a91221d4827afcb511b601a33d03d41",
+      "bytes": 1503
+    }
+  ]
+}
